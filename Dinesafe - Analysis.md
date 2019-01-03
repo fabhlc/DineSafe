@@ -1664,7 +1664,7 @@ turnover_formermuni
 
 Scarborough has the highest rate of turnover on average while Etobicoke seems to be the most stable. When we move a level down to the neighbourhood level, we see that less aggregated data at this level shows that individual neighbourhoods in Scarborough have a noticeably higher rate of turnover than the rest of the city. The map below shows how the Change Index of each neighbourhood compares to the city-average. More mellow colours indicate turnover closer to the city average Change Index of 0.2114, while more red pigments indicate neighbourhoods with higher-than-average turnover and conversely for blue pigments.
 
-![FINAL%20Change_Index%20Diff%20from%20City%20Avg%20by%20Neighbourhood.png](attachment:FINAL%20Change_Index%20Diff%20from%20City%20Avg%20by%20Neighbourhood.png)
+<img src="FINAL%20Change_Index%20Diff%20from%20City%20Avg%20by%20Neighbourhood.png"/>
 
 ### Scarborough
 It's difficult to overlook these trends in Scarborough so it's worth mentioning a few points about this ethnically and socioeconomically diverse suburb of Toronto. There are several obstacles to operating a successful food establishment in Scarborough that make it different from more central parts of Toronto:
@@ -2093,7 +2093,7 @@ kensington
 #### "Invisible" Turnover 
 Interestingly, despite a high turnover at **56 Kensington Avenue**, the only establishment that has existed at this location between 2012 and 2018 is Kensington Variety. Throughout this six-year period, Kensington Variety has kept its name, but possessed three different establishment IDs - i.e. changed at least three times. As previously mentioned, this may be attributable to change in ownership. While a deeper dive is required to verify this, it brings to our awareness the effects of "invisible" turnover - where a business storefront remains the same but the original owner(s) has been bought out. To anyone interested, it may be worthwhile perusing a licensing database to see where establishments are being pushed out 'invisibly'.
 
-![56%20Kensington%20Ave.jpg](attachment:56%20Kensington%20Ave.jpg)
+<img src="56%20Kensington%20Ave.jpg"/>
 <div style="text-align: center"><i> We haven't confirmed if ownership has changed, but storefront renovations are certainly consistent with this theory. Source: Google Streetview </i> </div>
 
 #### Note: Data Weakness
@@ -2847,7 +2847,7 @@ turnover_address_1.sort_values('change_index', ascending = False)[:15].join(est_
 
 1192 Queen Street East, 1808 Eglinton Avenue West, and 3358 Dundas Street West are tied for the highest turnover. We can confirm these turnovers with Google Streetview's historical captures. For 1192 Queen Street East, food establishments typically lasted a year before changing hands and a new restaurant was always quick to open in its place. Below is a collection of streetview images of 1192 Queen Street East:
 #### 1192 Queen St E
-![1192%20Queen%20St%20E.jpg](attachment:1192%20Queen%20St%20E.jpg)
+<img src ="1192%20Queen%20St%20E.jpg">
 <div style="text-align: center"><i> Source: Google Streetview and BlogTO </i> </div>
 
 ## Conclusion <a class ="anchor" id = "conclusion"></a>
